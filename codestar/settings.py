@@ -34,7 +34,8 @@ DEBUG = False
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = [
-    '8000-kristiandsmith-django-bl-sbio8h5hka.us2.codeanyapp.com', 'localhost']
+ 
+    'django-blog-project-2023-3961638af6ee.herokuapp.com', 'localhost']
 
 
 # Application definition
